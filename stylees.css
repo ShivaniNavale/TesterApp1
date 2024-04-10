@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.gradient-background{
+        /* Fallback for older browsers */
+        background-color: #f4ede6; /* light brown */
+    
+        /* Gradient */
+        background-image: linear-gradient(to bottom, #f4ede6, #d3b38c); /* light brown to darker brown */
+        background-repeat: no-repeat;
+        background-attachment: fixed; /* keeps the background fixed while scrolling */
+    }
+    .circular-image{
+        width:500px;
+        height:400px;
+        border-radius: 65%;
+        box-shadow: 0 0 500px rgba(0,0,0,0.9);
+    }
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+          
+
+
+    
+    
+    
+    
+    
